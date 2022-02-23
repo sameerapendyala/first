@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1643452118,,"wq"
+|2,0,1645635825,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,24 +25,84 @@
 # Registers:
 
 # File marks:
-'0  1  7  ~/ex2.txt
-|4,48,1,7,1643452118,"~/ex2.txt"
-'1  2  0  ~/hands_on.txt
-|4,49,2,0,1643452074,"~/hands_on.txt"
+'0  2  0  ~/new_file
+|4,48,2,0,1645635825,"~/new_file"
+'1  2  0  ~/branch_Ex_file
+|4,49,2,0,1645635504,"~/branch_Ex_file"
+'2  1  7  ~/ex2.txt
+|4,50,1,7,1643452118,"~/ex2.txt"
+'3  2  0  ~/hands_on.txt
+|4,51,2,0,1643452074,"~/hands_on.txt"
 
 # Jumplist (newest first):
+-'  2  0  ~/new_file
+|4,39,2,0,1645635825,"~/new_file"
+-'  1  0  ~/new_file
+|4,39,1,0,1645635819,"~/new_file"
+-'  2  0  ~/branch_Ex_file
+|4,39,2,0,1645635504,"~/branch_Ex_file"
+-'  2  0  ~/branch_Ex_file
+|4,39,2,0,1645635504,"~/branch_Ex_file"
+-'  1  0  ~/branch_Ex_file
+|4,39,1,0,1645635499,"~/branch_Ex_file"
+-'  1  0  ~/branch_Ex_file
+|4,39,1,0,1645635499,"~/branch_Ex_file"
+-'  1  7  ~/ex2.txt
+|4,39,1,7,1643452118,"~/ex2.txt"
+-'  1  7  ~/ex2.txt
+|4,39,1,7,1643452118,"~/ex2.txt"
+-'  1  7  ~/ex2.txt
+|4,39,1,7,1643452118,"~/ex2.txt"
 -'  1  7  ~/ex2.txt
 |4,39,1,7,1643452118,"~/ex2.txt"
 -'  2  0  ~/hands_on.txt
 |4,39,2,0,1643452074,"~/hands_on.txt"
 -'  2  0  ~/hands_on.txt
 |4,39,2,0,1643452074,"~/hands_on.txt"
+-'  2  0  ~/hands_on.txt
+|4,39,2,0,1643452074,"~/hands_on.txt"
+-'  2  0  ~/hands_on.txt
+|4,39,2,0,1643452074,"~/hands_on.txt"
+-'  2  0  ~/hands_on.txt
+|4,39,2,0,1643452074,"~/hands_on.txt"
+-'  2  0  ~/hands_on.txt
+|4,39,2,0,1643452074,"~/hands_on.txt"
+-'  2  0  ~/hands_on.txt
+|4,39,2,0,1643452074,"~/hands_on.txt"
+-'  2  0  ~/hands_on.txt
+|4,39,2,0,1643452074,"~/hands_on.txt"
+-'  1  0  ~/hands_on.txt
+|4,39,1,0,1643452064,"~/hands_on.txt"
+-'  1  0  ~/hands_on.txt
+|4,39,1,0,1643452064,"~/hands_on.txt"
+-'  1  0  ~/hands_on.txt
+|4,39,1,0,1643452064,"~/hands_on.txt"
+-'  1  0  ~/hands_on.txt
+|4,39,1,0,1643452064,"~/hands_on.txt"
+-'  1  0  ~/hands_on.txt
+|4,39,1,0,1643452064,"~/hands_on.txt"
+-'  1  0  ~/hands_on.txt
+|4,39,1,0,1643452064,"~/hands_on.txt"
 -'  1  0  ~/hands_on.txt
 |4,39,1,0,1643452064,"~/hands_on.txt"
 -'  1  0  ~/hands_on.txt
 |4,39,1,0,1643452064,"~/hands_on.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/new_file
+	*	1645635824	0
+	"	2	0
+	^	2	0
+	.	1	9
+	+	1	9
+
+> ~/branch_Ex_file
+	*	1645635503	0
+	"	2	0
+	^	2	0
+	.	1	5
+	+	1	5
 
 > ~/ex2.txt
 	*	1643452117	0
